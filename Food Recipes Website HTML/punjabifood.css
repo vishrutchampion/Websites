@@ -1,0 +1,35 @@
+#menu{
+    display: flex; margin-top: 275px; gap: 25px; 
+
+}
+
+#all{
+    display: flex;
+}
+a{
+    text-decoration: none; 
+}
+a:visited{
+    color: black;
+}
+#name{
+    text-align: center;
+}
+#rec1{
+    display: flex;
+}
+#rec2{
+     display: flex;
+}
+#rec3{
+    display: flex;
+}
+#rec4{
+    display: flex;
+}
+#rec5{
+    display: flex;
+}
+#rec6{
+    display: flex;
+}

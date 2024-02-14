@@ -1,0 +1,14 @@
+#menu{
+    display: flex; margin-top: 275px; gap: 25px; 
+
+}
+
+#all{
+    display: flex;
+}
+a{
+    text-decoration: none; 
+}
+a:visited{
+    color: black;
+}

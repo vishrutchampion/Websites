@@ -1,0 +1,41 @@
+#menu{
+    display: flex; margin-top: 275px; gap: 25px; 
+
+}
+
+#all{
+    display: flex;
+}
+a{
+    text-decoration: none; 
+}
+a:visited{
+    color: black;
+}
+#head{
+    text-align: center;
+}
+#group{
+    display: flex;
+}
+#group2{
+    display: flex;
+}
+#group3{
+    display: flex;
+}
+#group4{
+    display: flex;
+}
+#group5{
+    display: flex;
+}
+#group6{
+    display: flex;
+}
+#group7{
+    display: flex;
+}
+#group8{
+    display: flex;
+}
